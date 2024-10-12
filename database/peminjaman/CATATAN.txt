@@ -1,0 +1,5 @@
+Berikut jawaban untuk soal nomor 1.
+sudah dibuatkan database dan ada relasi yang dibuat pada database phpmyadmin.
+saya sertakan juga screenshoot berupa gambar hasil relasi pada database peminjaman.
+
+Terimakasih.

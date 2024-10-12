@@ -1,0 +1,5 @@
+Jawaban untuk soal nomor 2 - 5
+Untuk database project peminjaman buku ada di folder database/peminjaman_buku
+Mohon maaf bila masih belum sempurna, saya hanya manusia biasa :D
+
+Terimakasih.
